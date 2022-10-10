@@ -1,0 +1,16 @@
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\bin\Debug\net5.0\Stopwatch.exe
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\bin\Debug\net5.0\Stopwatch.deps.json
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.json
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.dev.json
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\bin\Debug\net5.0\Stopwatch.dll
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\bin\Debug\net5.0\Stopwatch.pdb
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.AssemblyReference.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfoInputs.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfo.cs
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.dll
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\refint\Stopwatch.dll
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.pdb
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\Stopwatch.genruntimeconfig.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Classes Exercises\Classes 1 Stopwatch\Stopwatch\obj\Debug\net5.0\ref\Stopwatch.dll

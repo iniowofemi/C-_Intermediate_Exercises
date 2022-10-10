@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQ7L+mmkviN9vqHaRAxgMmv6OlElxjOBGgo4VgRnyxjxTqvAavRuLWEKMohVI/mQwqR+QxKm5nB/7NaMVjzV4w==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Udemy Courses\\C# Intermediate Classes\\Classes Exercises\\Classes 1 Stopwatch\\Stopwatch\\Stopwatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibowo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
