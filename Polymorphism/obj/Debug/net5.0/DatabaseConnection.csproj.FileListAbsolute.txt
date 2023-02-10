@@ -1,0 +1,16 @@
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\bin\Debug\net5.0\DatabaseConnection.exe
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\bin\Debug\net5.0\DatabaseConnection.deps.json
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\bin\Debug\net5.0\DatabaseConnection.runtimeconfig.json
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\bin\Debug\net5.0\DatabaseConnection.runtimeconfig.dev.json
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\bin\Debug\net5.0\DatabaseConnection.dll
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\bin\Debug\net5.0\DatabaseConnection.pdb
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.csproj.AssemblyReference.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.AssemblyInfoInputs.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.AssemblyInfo.cs
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.dll
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\refint\DatabaseConnection.dll
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.pdb
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\DatabaseConnection.genruntimeconfig.cache
+D:\Coding\Udemy Courses\C# Intermediate Classes\Section 5 Polymorphism - Third Pillar of OOP\Section Exercises\DatabaseConnection\obj\Debug\net5.0\ref\DatabaseConnection.dll
